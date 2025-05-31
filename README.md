@@ -9,5 +9,5 @@ Este proyecto busca resolver un problema de clasificación utilizando técnicas 
 - 03 - modelo 1.ipynb: entrenamiento y evaluación del primer modelo
 - 04 - modelo 2.ipynb: entrenamiento y evaluación del segundo modelo
 - 05 - comparación.ipynb: comparación entre los dos modelos
-- 06 - dataset.csv: conjunto de datos utilizado
+- 06 - hola.zip: conjunto de datos utilizado
 - 07 - informe.pdf: resumen final del proyecto
