@@ -1,6 +1,8 @@
 # Final-Programación
 Proyecto final programación 2025-1
-
+Andrés Quintero García
+Jackson Monk Medina
+Juan Jose Ospina Muriel
 Este proyecto busca resolver un problema de clasificación utilizando técnicas de aprendizaje automático. Se incluyen análisis exploratorio, preprocesado, entrenamiento de dos modelos distintos, evaluación y comparación.
 ## Archivos incluidos
 
